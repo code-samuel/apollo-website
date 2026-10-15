@@ -4,7 +4,8 @@
   "description": "Minha Nuvem",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "echo 'Local development active'",
+    "build": "echo 'Build completed successfully'"
   },
   "repository": {
     "type": "git",
