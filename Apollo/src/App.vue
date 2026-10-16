@@ -1,11 +1,8 @@
 <script setup></script>
 
 <template>
-  <h1>You did it!</h1>
-  <p>
-    Visit <a href="https://vuejs.org/" target="_blank" rel="noopener">vuejs.org</a> to read the
-    documentation
-  </p>
+  <h1> Temos um site agora!</h1>
+  <p>Nosso site muito legal, vamos todos aprender a sitezar</p>
 </template>
 
 <style scoped></style>
