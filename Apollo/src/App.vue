@@ -3,10 +3,10 @@ import { RouterLink, RouterView } from 'vue-router'
 </script>
 
 <template>
-  <body>
+  <main>
     <h1> Somos minha nuvem</h1>
     <p> Temos um site muito bacana agora</p>
-  </body>
+  </main>
 </template>
 
 <style scoped>
