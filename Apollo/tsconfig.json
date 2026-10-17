@@ -6,13 +6,6 @@
     },
     {
       "path": "./tsconfig.app.json"
-    },
-    {
-      "exclude": [
-        "eslint.config.ts",
-        "dist",
-        "node_modules"
-      ]
     }
   ]
 }
